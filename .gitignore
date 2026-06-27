@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+*secret*
+*token*
+runtime/
+LaunchAgents/
+*.plist
+n8n/
+*n8n*.json
+rudra/
+RUDRA/
+run_all.py

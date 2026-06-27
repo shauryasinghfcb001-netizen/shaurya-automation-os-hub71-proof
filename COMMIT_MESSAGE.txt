@@ -1,0 +1,6 @@
+proof: package SHAURYA Automation OS Hub71 evidence
+
+- Add public-ready Hub71 proof README and documentation
+- Add proof summary, build log, architecture, demo script, and submission copy
+- Add six screenshot proof assets with screenshot README
+- Add upload checklist with safety and claim boundaries
